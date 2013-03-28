@@ -1,0 +1,9 @@
+{
+	"name": "devcomp-tool-ui",
+	"version": "0.1.0",
+	"pm": "sm",
+	"mappings": {
+		"requirejs": ["url", "http://requirejs.org/docs/release/2.1.4/comments/require.js"],
+		"q": ["url", "https://raw.github.com/kriskowal/q/v0.8.12/q.js"]
+	}
+}
