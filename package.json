@@ -1,0 +1,10 @@
+{
+	"name": "devcomp-tool",
+	"version": "0.1.0",
+	"pm": "sm",
+	"mappings": {
+	},
+	"scripts": {
+		"install": "make install"
+	}
+}
